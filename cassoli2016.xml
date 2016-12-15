@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161215-kenzo</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161215-kenzo.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
