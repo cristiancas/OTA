@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161219-kenzo-UNOFFICIAL.zip</Filename>
+            <Filename>ResurrectionRemix-N-OMS-v5.8.0-20161220-kenzo-UNOFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix Build">https://www.androidfilehost.com/?fid=457095661767123730</RomUrl>
+                description="Download ResurrectionRemix Build">https://www.androidfilehost.com/?fid=529152257862689706</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
